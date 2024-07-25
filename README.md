@@ -7,8 +7,8 @@ Steps involved in implementation
 - finally plotted results for low and high gaussian noise data points using plot_kalman_filter.py
 
 ### Results 
-- with low sensor noise
+- with low sensor noise          
 ![Figure_2](https://github.com/user-attachments/assets/75d05896-6983-4f34-a22b-2d5910b247c8)
--with high sensor noise
+- with high sensor noise          
 ![Figure_1](https://github.com/user-attachments/assets/eb3e5f39-fff2-463e-9f15-84958ad2bcee)
 
