@@ -1,6 +1,8 @@
 ### Dependencies 
 - ROS2 Humble
+- C++
 - rclcpp (ROS2 C++ client library)
+- rclpy (ROS2 python3 client library)
 - python3
 
 ### Kalman Filter in ROS2 Humble
