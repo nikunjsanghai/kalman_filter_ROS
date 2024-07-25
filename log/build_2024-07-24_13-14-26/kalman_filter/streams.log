@@ -1,0 +1,48 @@
+[0.013s] Invoking command in '/home/nikunj/ros2_ws/build/kalman_filter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nikunj/ros2_ws/src/kalman_filter -DCMAKE_INSTALL_PREFIX=/home/nikunj/ros2_ws/install/kalman_filter
+[0.084s] -- The C compiler identification is GNU 11.4.0
+[0.138s] -- The CXX compiler identification is GNU 11.4.0
+[0.146s] -- Detecting C compiler ABI info
+[0.186s] -- Detecting C compiler ABI info - done
+[0.190s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.198s] -- Detecting C compile features
+[0.198s] -- Detecting C compile features - done
+[0.200s] -- Detecting CXX compiler ABI info
+[0.245s] -- Detecting CXX compiler ABI info - done
+[0.249s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.249s] -- Detecting CXX compile features
+[0.250s] -- Detecting CXX compile features - done
+[0.261s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.358s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.426s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[0.456s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.459s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.465s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.475s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.492s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.550s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.552s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.611s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.635s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.669s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.683s] -- Looking for pthread.h
+[0.726s] -- Looking for pthread.h - found
+[0.726s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.765s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.766s] -- Found Threads: TRUE  
+[0.891s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.026s] -- Configuring done
+[1.027s] [31mCMake Error at CMakeLists.txt:16 (add_executable):
+[1.027s]   Cannot find source file:
+[1.027s] 
+[1.027s]     src/kalman_filter_node.cpp
+[1.027s] 
+[1.027s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[1.027s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[1.027s] 
+[1.027s] [0m
+[1.028s] [31mCMake Error at CMakeLists.txt:16 (add_executable):
+[1.028s]   No SOURCES given to target: kalman_filter_node
+[1.028s] 
+[1.028s] [0m
+[1.028s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[1.033s] Invoked command in '/home/nikunj/ros2_ws/build/kalman_filter' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nikunj/ros2_ws/src/kalman_filter -DCMAKE_INSTALL_PREFIX=/home/nikunj/ros2_ws/install/kalman_filter

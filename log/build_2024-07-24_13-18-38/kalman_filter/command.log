@@ -1,0 +1,6 @@
+Invoking command in '/home/nikunj/ros2_ws/build/kalman_filter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nikunj/ros2_ws/src/kalman_filter -DCMAKE_INSTALL_PREFIX=/home/nikunj/ros2_ws/install/kalman_filter
+Invoked command in '/home/nikunj/ros2_ws/build/kalman_filter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/nikunj/ros2_ws/src/kalman_filter -DCMAKE_INSTALL_PREFIX=/home/nikunj/ros2_ws/install/kalman_filter
+Invoking command in '/home/nikunj/ros2_ws/build/kalman_filter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nikunj/ros2_ws/build/kalman_filter -- -j20 -l20
+Invoked command in '/home/nikunj/ros2_ws/build/kalman_filter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nikunj/ros2_ws/build/kalman_filter -- -j20 -l20
+Invoking command in '/home/nikunj/ros2_ws/build/kalman_filter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nikunj/ros2_ws/build/kalman_filter
+Invoked command in '/home/nikunj/ros2_ws/build/kalman_filter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nikunj/ros2_ws/build/kalman_filter

@@ -1,0 +1,22 @@
+[0.005s] Invoking command in '/home/nikunj/ros2_ws/build/kalman_filter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nikunj/ros2_ws/build/kalman_filter -- -j20 -l20
+[0.035s] [100%] Built target kalman_filter_node
+[0.041s] Invoked command in '/home/nikunj/ros2_ws/build/kalman_filter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nikunj/ros2_ws/build/kalman_filter -- -j20 -l20
+[0.059s] Invoking command in '/home/nikunj/ros2_ws/build/kalman_filter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nikunj/ros2_ws/build/kalman_filter
+[0.063s] -- Install configuration: ""
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/lib/kalman_filter/kalman_filter_node
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/ament_index/resource_index/package_run_dependencies/kalman_filter
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/ament_index/resource_index/parent_prefix_path/kalman_filter
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/environment/ament_prefix_path.sh
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/environment/ament_prefix_path.dsv
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/environment/path.sh
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/environment/path.dsv
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/local_setup.bash
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/local_setup.sh
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/local_setup.zsh
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/local_setup.dsv
+[0.063s] -- Installing: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/package.dsv
+[0.063s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/ament_index/resource_index/packages/kalman_filter
+[0.064s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/cmake/kalman_filterConfig.cmake
+[0.064s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/cmake/kalman_filterConfig-version.cmake
+[0.064s] -- Up-to-date: /home/nikunj/ros2_ws/install/kalman_filter/share/kalman_filter/package.xml
+[0.065s] Invoked command in '/home/nikunj/ros2_ws/build/kalman_filter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nikunj/ros2_ws/build/kalman_filter
