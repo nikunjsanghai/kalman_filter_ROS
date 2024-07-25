@@ -1,3 +1,8 @@
+### Dependencies 
+- ROS2 Humble
+- rclcpp (ROS2 C++ client library)
+- python3
+
 ### Kalman Filter in ROS2 Humble
 Steps involved in implementation
 - used synthetic_data_publisher.py to create synthetic IMU and GPS data with added guassian noise
